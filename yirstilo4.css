@@ -1,0 +1,36 @@
+h1{
+    color: rgba(63, 207, 19, 0.692);
+}
+html{
+    background-color: rgb(68, 39, 7);
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: rgb(207, 116, 11);
+    width: 100%;
+    max-width: 370px;
+    margin: auto;
+}
+.menu li a{
+ text-decoration: none;
+ color: white;
+ padding: 20px;
+display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: greenyellow;
+}
+table{
+    color: azure;
+    border-color: green;
+    width: 100%;
+
+}
+th, td{
+    padding: 20px;
+}

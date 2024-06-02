@@ -1,0 +1,42 @@
+html{background-color: rgb(223, 155, 30);}
+h1{margin: 0;
+padding: 20px 0;
+color: rgb(13, 241, 13);
+text-shadow: 7px 7px 7px rgb(4, 0, 7);
+text-align:center;}
+.contenedor { 
+    text-align: center;
+}
+h2{
+    margin: 10px ;
+padding: 20px 0;
+color: rgb(5, 253, 5);
+text-shadow: 7px 7px 7px rgb(4, 0, 7);
+text-align:center;
+lighting-color: chartreuse;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #382603 ;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: rgb(196, 107, 5);
+    width: 100%;
+    max-width: 370px;
+    margin: auto;
+}
+.menu li a{
+ text-decoration: none;
+ color: white;
+ padding: 20px;
+display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: greenyellow;
+}
